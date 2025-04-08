@@ -2,7 +2,7 @@
 
 ## Authors
 
-Andrea González Vareka
+Andrea González Varela
 
 ## Problem Statement
 
